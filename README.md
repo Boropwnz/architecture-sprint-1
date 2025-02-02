@@ -50,6 +50,7 @@ API методы microfrontend-auth:
 - Register
 - Login
 - InfoTooltip
+- ProtectedRoute (переключение)
 
 API методы microfrontend-user:
 - getUserInfo
