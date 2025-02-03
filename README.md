@@ -117,4 +117,4 @@ API методы microfrontend-cards:
 
 ### Уровень 1. Разделить монолит на компоненты.
 
-[Предлагаемая схема решения](ссылка)  
+[Предлагаемая схема решения в Google Drive](https://drive.google.com/file/d/1zsTp0fBTIXbXB94AlhkoIn_OKAmJZKAq/view?usp=sharing)  
